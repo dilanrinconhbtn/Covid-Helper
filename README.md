@@ -1,1 +1,1 @@
-# Covid-Helper
+# Covid Helper
