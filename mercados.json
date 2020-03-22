@@ -1,0 +1,1855 @@
+[
+    /* Dilan */
+    {
+        "nombre": "Constanza Pardo",
+        "plaza": "Doce de octubre",
+        "contacto": "316 820 9720 / 549 03 86",
+        "producto": ["salsamentaria", "lacteo", "avicola"],
+        "dirección": "Carrera 51 # 72-13",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Janeth Barreto",
+        "plaza": "Doce de octubre",
+        "contacto": "321 439 3736 / 311 07 17",
+        "producto": ["salsamentaria", "lacteo"],
+        "dirección": "Carrera 51 # 72-13",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Eloiza Nizo",
+        "plaza": "Doce de octubre",
+        "contacto": "312 485 52 30",
+        "producto": ["frutas", "aromaticas"],
+        "dirección": "Carrera 51 # 72-13",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Saul Caraton",
+        "plaza": "Doce de octubre",
+        "contacto": "350 346 34 85",
+        "producto": ["cafeteria"],
+        "dirección": "Carrera 51 # 72-13",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Donde Janeth",
+        "plaza": "Siete de agosto",
+        "contacto": "310 552 90 27",
+        "producto": ["frutas", "verduras"],
+        "dirección": "Carrera 24 # 64-26",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Local de verduras y legumbres",
+        "plaza": "Siete de agosto",
+        "contacto": "312 367 75 67",
+        "producto": ["verduras"],
+        "dirección": "Carrera 24 # 64-26",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "La tía alicia",
+        "plaza": "Siete de agosto",
+        "contacto": "312 471 61 67",
+        "producto": ["verduras", "frutas"],
+        "dirección": "Carrera 24 # 64-26",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Fruver Campo",
+        "plaza": "Siete de agosto",
+        "contacto": "321 413 24 35",
+        "producto": ["verduras", "frutas"],
+        "dirección": "Carrera 24 # 64-26",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Frutas y verduras Marce",
+        "plaza": "Siete de agosto",
+        "contacto": "320 230 07 23",
+        "producto1": ["verduras","frutas"],
+        "dirección": "Carrera 24 # 64-26",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Comercializadora de frutas y verduras",
+        "plaza": "Siete de agosto",
+        "contacto": "312 519 28 53 / 314 63 88",
+        "producto1": ["verduras","frutas"],
+        "dirección": "Carrera 24 # 64-26",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Comercializadora de frutas y verduras",
+        "plaza": "Siete de agosto",
+        "contacto": "312 519 28 53 / 314 63 88",
+        "producto1": ["verduras","frutas"],
+        "dirección": "Carrera 24 # 64-26",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Rosario Carvajal",
+        "plaza": "Siete de agosto",
+        "contacto": "311 546 54 86",
+        "producto1": ["verduras","frutas"],
+        "dirección": "Carrera 24 # 64-26",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Fruver 83",
+        "plaza": "Siete de agosto",
+        "contacto": "313 834 41 08",
+        "producto": ["verduras", "frutas"],
+        "dirección": "Carrera 24 # 64-26",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Frutas Pipe",
+        "plaza": "Siete de agosto",
+        "contacto": "310 868 36 95",
+        "producto": ["verduras", "frutas"],
+        "dirección": "Carrera 24 # 64-26",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Fruver la 70",
+        "plaza": "Siete de agosto",
+        "contacto": "311 820 71 99",
+        "producto": ["verduras", "frutas"],
+        "dirección": "Carrera 24 # 64-26",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Ventas Santa Marta",
+        "plaza": "Siete de agosto",
+        "contacto": "321 466 11 67",
+        "producto": ["verduras", "frutas"],
+        "dirección": "Carrera 24 # 64-26",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Frutos de Dios",
+        "plaza": "Siete de agosto",
+        "contacto": "301 279 52 23",
+        "producto": ["verduras", "frutas"],
+        "dirección": "Carrera 24 # 64-26",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Pollos y Presas 7 de agosto",
+        "plaza": "Siete de agosto",
+        "contacto": "313 834 28 10 / 544 92 34",
+        "producto": ["carniceria", "pescaderia"],
+        "dirección": "Carrera 24 # 64-26",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Restaurante La Pega Dorada",
+        "plaza": "Siete de agosto",
+        "contacto": "317 700 15 13",
+        "producto": ["restaurante"],
+        "dirección": "Carrera 24 # 64-26",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Restaurante La Negrita",
+        "plaza": "Siete de agosto",
+        "contacto": "321 229 07 37",
+        "producto": ["restaurante"],
+        "dirección": "Carrera 24 # 64-26",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Restaurante donde Adriana",
+        "plaza": "Siete de agosto",
+        "contacto": "466 14 38",
+        "producto": ["restaurante"],
+        "dirección": "Carrera 24 # 64-26",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Restaurante Maria C",
+        "plaza": "Siete de agosto",
+        "contacto": "314 331 00 05",
+        "producto": ["restaurante"],
+        "dirección": "Carrera 24 # 64-26",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Fabio Ruiz",
+        "plaza": "Las ferias",
+        "contacto": "301 647 39 76",
+        "producto": ["carniceria"],
+        "dirección": "Carrera 70 # 74-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Pedro Aponte",
+        "plaza": "Las ferias",
+        "contacto": "312 488 27 65",
+        "producto": ["carniceria"],
+        "dirección": "Carrera 70 # 74-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Cristian Rojas",
+        "plaza": "Las ferias",
+        "contacto": "320 316 16 75",
+        "producto": ["carniceria"],
+        "dirección": "Carrera 70 # 74-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Daniel Nemoga",
+        "plaza": "Las ferias",
+        "contacto": "314 419 37 85",
+        "producto": ["carniceria"],
+        "dirección": "Carrera 70 # 74-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Martha Redondo",
+        "plaza": "Las ferias",
+        "contacto": "310 333 65 35",
+        "producto": ["carniceria"],
+        "dirección": "Carrera 70 # 74-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Nancy Caro",
+        "plaza": "Las ferias",
+        "contacto": "311 576 24 86",
+        "producto": ["carniceria"],
+        "dirección": "Carrera 70 # 74-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Blanca Paez",
+        "plaza": "Las ferias",
+        "contacto": "320 396 96 42",
+        "producto": ["furtas", "verduras"],
+        "dirección": "Carrera 70 # 74-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Cristina Hernandez",
+        "plaza": "Las ferias",
+        "contacto": "320 808 16 61",
+        "producto": ["furtas", "verduras"],
+        "dirección": "Carrera 70 # 74-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Carmen Ospina",
+        "plaza": "Las ferias",
+        "contacto": "312 366 65 94",
+        "producto": ["furtas", "verduras"],
+        "dirección": "Carrera 70 # 74-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Lucia Salazar",
+        "plaza": "Quirigua",
+        "contacto": "310 782 25 41",
+        "producto": ["carniceria"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Edgar Melo",
+        "plaza": "Quirigua",
+        "contacto": "311 582 15 90",
+        "producto": ["carniceria"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Javier Lopez",
+        "plaza": "Quirigua",
+        "contacto": "311 650 16 78",
+        "producto": ["carniceria"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Manuel Cruz",
+        "plaza": "Quirigua",
+        "contacto": "313 357 53 58",
+        "producto": ["carniceria"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Carlos Pinzon",
+        "plaza": "Quirigua",
+        "contacto": "321 936 23 97",
+        "producto": ["carniceria"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Alejandro Pinzon",
+        "plaza": "Quirigua",
+        "contacto": "313 257 67 33",
+        "producto": ["pescaderia"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Maria Gladys Rodriguez",
+        "plaza": "Quirigua",
+        "contacto": "313 257 67 33",
+        "producto": ["pescaderia"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Arturo Tovasura",
+        "plaza": "Quirigua",
+        "contacto": "320 802 49 94",
+        "producto": ["carniceria", "pescaderia"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Carnes la calidad del recuerdo ltda",
+        "plaza": "Quirigua",
+        "contacto": "300 220 81 04",
+        "producto": ["carniceria", "pescaderia"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Victor Diaz",
+        "plaza": "Quirigua",
+        "contacto": "311 462 47 48",
+        "producto": ["carniceria", "pescaderia"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Yuri Paez",
+        "plaza": "Quirigua",
+        "contacto": "317 886 45 21",
+        "producto": ["carniceria", "pescaderia"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Libardo Espina",
+        "plaza": "Quirigua",
+        "contacto": "313 868 11 98",
+        "producto": ["carniceria", "pescaderia"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Natural Pig",
+        "plaza": "Quirigua",
+        "contacto": "300 484 84 80",
+        "producto": ["carniceria", "pescaderia"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Jose de Jesus Guerrero",
+        "plaza": "Quirigua",
+        "contacto": "300 814 75 62",
+        "producto": ["carniceria", "pescaderia"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Ofelia Escobar",
+        "plaza": "Quirigua",
+        "contacto": "320 261 02 81",
+        "producto": ["carniceria", "pescaderia"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Mary Yolanda Torres Visceras",
+        "plaza": "Quirigua",
+        "contacto": "310 281 11 73",
+        "producto": ["carniceria", "pescaderia"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Nestor Gonzales Visceras",
+        "plaza": "Quirigua",
+        "contacto": "312 556 18 49",
+        "producto": ["carniceria", "pescaderia"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Maria Toledo Visceras",
+        "plaza": "Quirigua",
+        "contacto": "321 935 05 48",
+        "producto": ["carniceria", "pescaderia"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Maria Vargas Viceras",
+        "plaza": "Quirigua",
+        "contacto": "314 859 61 51",
+        "producto": ["carniceria", "pescaderia"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Marina Arcos Visceras",
+        "plaza": "Quirigua",
+        "contacto": "312 372 27 49",
+        "producto": ["carniceria", "pescaderia"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Amanda Muñoz",
+        "plaza": "Quirigua",
+        "contacto": "314 434 15 55",
+        "producto": ["frutas", "verduras"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Mery Rodriguez",
+        "plaza": "Quirigua",
+        "contacto": "314 360 78 10",
+        "producto": ["frutas", "verduras"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Margarita Guevara",
+        "plaza": "Quirigua",
+        "contacto": "310 284 90 91",
+        "producto": ["frutas", "verduras"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Luis Sanchez",
+        "plaza": "Quirigua",
+        "contacto": "314 360 78 10",
+        "producto": ["frutas", "verduras"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Gilma Gonzalez",
+        "plaza": "Quirigua",
+        "contacto": "321 548 44 47",
+        "producto": ["frutas", "verduras"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Alberto Hernandez",
+        "plaza": "Quirigua",
+        "contacto": "313 201 55 32",
+        "producto": ["frutas", "verduras"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Milena Acevedo",
+        "plaza": "Quirigua",
+        "contacto": "311 550 56 52",
+        "producto": ["frutas", "verduras"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Patricia Hernandez",
+        "plaza": "Quirigua",
+        "contacto": "310 464 22 47",
+        "producto": ["frutas", "verduras"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Fanny Osorio",
+        "plaza": "Quirigua",
+        "contacto": "311 608 83 26",
+        "producto": ["panaderia"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Eduardo Casas",
+        "plaza": "Quirigua",
+        "contacto": "311 357 78 28",
+        "producto": ["frutas", "verduras"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Anderson Gonzalez",
+        "plaza": "Quirigua",
+        "contacto": "311 809 47 77",
+        "producto": ["plantas"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Astrid Gil",
+        "plaza": "Quirigua",
+        "contacto": "314 480 22 52",
+        "producto": ["plantas"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Luz Macias",
+        "plaza": "Quirigua",
+        "contacto": "313 259 05 54",
+        "producto": ["ceramicas"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Rosa Vergel",
+        "plaza": "Quirigua",
+        "contacto": "311 865 28 86",
+        "producto": ["ceramicas"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Maria Cucanchon",
+        "plaza": "Quirigua",
+        "contacto": "681 95 24",
+        "producto": ["velas"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Jenny Tobar",
+        "plaza": "Quirigua",
+        "contacto": "322 323 48",
+        "producto": ["velas"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Maria Ortigoza",
+        "plaza": "Quirigua",
+        "contacto": "311 865 28 86",
+        "producto": ["velas"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Maria Camacho",
+        "plaza": "Quirigua",
+        "contacto": "311 550 56 52",
+        "producto": ["velas"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Marlen Garcia",
+        "plaza": "Quirigua",
+        "contacto": "314 342 96 86",
+        "producto": ["cafeteria"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Maria Garay",
+        "plaza": "Quirigua",
+        "contacto": "312 579 75 61",
+        "producto": ["insumos panaderia"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Nicolas Vazquez",
+        "plaza": "Quirigua",
+        "contacto": "312 735 49 69",
+        "producto": ["salsamentaria"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Arnulfo Rivera",
+        "plaza": "Quirigua",
+        "contacto": "311 491 48 85",
+        "producto": ["salsamentaria"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Ines Romero",
+        "plaza": "Quirigua",
+        "contacto": "314 342 96 86",
+        "producto": ["plasticos"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Marisol Arevalo",
+        "plaza": "Quirigua",
+        "contacto": "322 778 36 19",
+        "producto": ["plasticos"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Gloria Gonzalez",
+        "plaza": "Quirigua",
+        "contacto": "313 316 35 86",
+        "producto": ["restaurante"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Sara Buritica",
+        "plaza": "Quirigua",
+        "contacto": "312 542 65 46",
+        "producto": ["restaurante"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Jackeline Garcia",
+        "plaza": "Quirigua",
+        "contacto": "313 297 78 87",
+        "producto": ["restaurante"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Mercado Campesino",
+        "plaza": "Quirigua",
+        "contacto": "313 297 84 24",
+        "producto": ["frutas", "verduras"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Yolanda Dueñas",
+        "plaza": "Quirigua",
+        "contacto": "313 316 35 86",
+        "producto": ["supermercado"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Maryin Vacca",
+        "plaza": "Quirigua",
+        "contacto": "321 548 44 47",
+        "producto": ["mascotas"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Aureliano Sepulveda",
+        "plaza": "Quirigua",
+        "contacto": "310 680 04 98",
+        "producto": ["balanzas"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Angie Gomez",
+        "plaza": "Quirigua",
+        "contacto": "314 342 96 86",
+        "producto": ["plasticos"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Blanca Borda",
+        "plaza": "Quirigua",
+        "contacto": "312 516 19 79",
+        "producto": ["veduras"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Jose Bernal",
+        "plaza": "Quirigua",
+        "contacto": "321 476 14 63",
+        "producto": ["veduras"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Maria Castro",
+        "plaza": "Quirigua",
+        "contacto": "312 329 41 34",
+        "producto": ["veduras"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Wilfredo Aldana",
+        "plaza": "Quirigua",
+        "contacto": "322 393 97 73",
+        "producto": ["veduras"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Jose Padilla",
+        "plaza": "Quirigua",
+        "contacto": "440 35 73",
+        "producto": ["veduras"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Jose Sabogal",
+        "plaza": "Quirigua",
+        "contacto": "318 324 77 67",
+        "producto": ["veduras"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Jose Romero",
+        "plaza": "Quirigua",
+        "contacto": "311 231 91 89",
+        "producto": ["huevos"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+    {
+        "nombre": "Gilma Soler",
+        "plaza": "Quirigua",
+        "contacto": "311 268 72 72",
+        "producto": ["lacteos"],
+        "dirección": "Calle 90 # 91-52",
+        "ciudad": "Bogota"
+    },
+
+    /* Emma */
+
+
+
+   /* Hugo */
+
+
+   {
+    "nombre": "Solibey Torres",
+    "plaza": "Mercado las cruces",
+    "contacto": "311 266 90 77",
+    "productos": ["avicola"],
+    "direccion": "Calle 1F # 4-60",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Maria Lota",
+    "plaza": "Mercado las cruces",
+    "contacto": "312 359 0487",
+    "productos": ["frutas", "verduras"],
+    "direccion": "Calle 1F # 4-60",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Esperanza Rico",
+    "plaza": "Mercado las cruces",
+    "contacto": "317 325 78 09",
+    "productos": ["frutas", "verduras"],
+    "direccion": "Calle 1F # 4-60",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Hernando Mendoza",
+    "plaza": "Mercado Kennedy",
+    "contacto": "321 222 33 22",
+    "productos": ["carniceria"],
+    "direccion": "Calle 42 # 78M-50 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Edgar Larrota",
+    "plaza": "Mercado Kennedy",
+    "contacto": "312 683 99 31",
+    "productos": ["carniceria"],
+    "direccion": "Calle 42 # 78M-50 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Gustavo Torres",
+    "plaza": "Mercado Kennedy",
+    "contacto": "311 599 86 79",
+    "productos": ["carniceria"],
+    "direccion": "Calle 42 # 78M-50 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Javier Neira",
+    "plaza": "Mercado Kennedy",
+    "contacto": "310 295 79 90",
+    "productos": ["pescaderia", "avicola"],
+    "direccion": "Calle 42 # 78M-50 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "José Jerez",
+    "plaza": "Mercado Kennedy",
+    "contacto": "031 451 59 64 / 453 70 05",
+    "productos": ["carniceria"],
+    "direccion": "Calle 42 # 78M-50 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Yolanda Sarmiento",
+    "plaza": "Mercado Kennedy",
+    "contacto": "311 562 55 98 ",
+    "productos": ["salsamenteria", "lacteos"],
+    "direccion": "Calle 42 # 78M-50 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Hernan Macias",
+    "plaza": "Mercado Kennedy",
+    "contacto": "312 524 02 18",
+    "productos": ["frutas"],
+    "direccion": "Calle 42 # 78M-50 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Ana Torres",
+    "plaza": "Mercado Kennedy",
+    "contacto": "300 869 53 00",
+    "productos": ["frutas"],
+    "direccion": "Calle 42 # 78M-50 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Luz Dary Pimiento",
+    "plaza": "Mercado Kennedy",
+    "contacto": "320 440 16 12",
+    "productos": ["frutas"],
+    "direccion": "Calle 42 # 78M-50 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Luis Huertas",
+    "plaza": "Mercado Kennedy",
+    "contacto": "312 683 99 31",
+    "productos": ["verduras"],
+    "direccion": "Calle 42 # 78M-50 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Mery Marullo",
+    "plaza": "Mercado Kennedy",
+    "contacto": "320 581 64 99",
+    "productos": ["verduras"],
+    "direccion": "Calle 42 # 78M-50 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Navia Beltran",
+    "plaza": "Mercado Kennedy",
+    "contacto": "311 214 5257",
+    "productos": ["frutas", "verduras"],
+    "direccion": "Calle 42 # 78M-50 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Faber Chavez",
+    "plaza": "Mercado Kennedy",
+    "contacto": "310 322 89 95",
+    "productos": ["productos naturales"],
+    "direccion": "Calle 42 # 78M-50 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Ana Moreno",
+    "plaza": "Mercado Kennedy",
+    "contacto": "318 544 50 82",
+    "productos": ["restaurante"],
+    "direccion": "Calle 42 # 78M-50 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Jose Arias",
+    "plaza": "Mercado Kennedy",
+    "contacto": "310 751 18 93",
+    "productos": ["restaurante"],
+    "direccion": "Calle 42 # 78M-50 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Carlos Rodriguez",
+    "plaza": "Mercado Kennedy",
+    "contacto": "322 610 32 72",
+    "productos": ["frutas"],
+    "direccion": "Calle 42 # 78M-50 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Maria Mendoza",
+    "plaza": "Mercado Kennedy",
+    "contacto": "311 557 13 74",
+    "productos": ["verduras", "harinas"],
+    "direccion": "Calle 42 # 78M-50 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Mercaldas",
+    "plaza": "Mercado Kennedy",
+    "contacto": "311 557 13 74",
+    "productos": ["granero"],
+    "direccion": "Calle 42 # 78M-50 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Mundo Mascotas",
+    "plaza": "Mercado Kennedy",
+    "contacto": "313 320 61 56",
+    "productos": ["mascotas"],
+    "direccion": "Calle 42 # 78M-50 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Olga Villamil",
+    "plaza": "Mercado Kennedy",
+    "contacto": "314 427 41 40",
+    "productos": ["hogar"],
+    "direccion": "Calle 42 # 78M-50 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "José Ruiz",
+    "plaza": "Mercado Kennedy",
+    "contacto": "031 403 17 43",
+    "productos": ["ropa"],
+    "direccion": "Calle 42 # 78M-50 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Nohora Ladino",
+    "plaza": "Mercado Fontibon",
+    "contacto": "316 747 16 16",
+    "productos": ["frutas"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Jimmy Villareal",
+    "plaza": "Mercado Fontibon",
+    "contacto": "300 570 73 99",
+    "productos": ["frutas"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Ana Solano",
+    "plaza": "Mercado Fontibon",
+    "contacto": "313 346 59 21",
+    "productos": ["frutas"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Viviana Bermudez",
+    "plaza": "Mercado Fontibon",
+    "contacto": "322 330 57 26",
+    "productos": ["frutas"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Luz Marina Rocha",
+    "plaza": "Mercado Fontibon",
+    "contacto": "314 268 32 65",
+    "productos": ["frutas"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Esperanza Sanchez",
+    "plaza": "Mercado Fontibon",
+    "contacto": "313 432 93 78",
+    "productos": ["frutas"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Rogelio Ortiz",
+    "plaza": "Mercado Fontibon",
+    "contacto": "313 432 94 78",
+    "productos": ["verduras"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Abigail Riscaneo",
+    "plaza": "Mercado Fontibon",
+    "contacto": "315 428 01 23",
+    "productos": ["verduras"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Yinna Paola Cruz",
+    "plaza": "Mercado Fontibon",
+    "contacto": "314 231 50 64",
+    "productos": ["verduras"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Eduardo Pulido",
+    "plaza": "Mercado Fontibon",
+    "contacto": "313 451 65 26",
+    "productos": ["verduras"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Martha Serna",
+    "plaza": "Mercado Fontibon",
+    "contacto": "313 451 65 26",
+    "productos": ["verduras"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Edgar Carvajal",
+    "plaza": "Mercado Fontibon",
+    "contacto": "313 203 73 34",
+    "productos": ["verduras"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Edgar Pinzon",
+    "plaza": "Mercado Fontibon",
+    "contacto": "313 408 55 99",
+    "productos": ["verduras"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Alexander Saenz",
+    "plaza": "Mercado Fontibon",
+    "contacto": "322 738 18 99",
+    "productos": ["verduras"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Rosa Melo",
+    "plaza": "Mercado Fontibon",
+    "contacto": "314 534 23 49",
+    "productos": ["verduras"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Daniel Santamaria",
+    "plaza": "Mercado Fontibon",
+    "contacto": "314 311 28 07",
+    "productos": ["avicola"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Jose Manuel Medina",
+    "plaza": "Mercado Fontibon",
+    "contacto": "312 448 03 93",
+    "productos": ["avicola"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Javier Lopez",
+    "plaza": "Mercado Fontibon",
+    "contacto": "311 650 16 78",
+    "productos": ["avicola"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Yessica Perez",
+    "plaza": "Mercado Fontibon",
+    "contacto": "318 631 83 26",
+    "productos": ["pescaderia"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Alejandro Huertas",
+    "plaza": "Mercado Fontibon",
+    "contacto": "321 972 39 37",
+    "productos": ["pescaderia"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Maria Nidia Huertas",
+    "plaza": "Mercado Fontibon",
+    "contacto": "300 528 96 24",
+    "productos": ["pescaderia"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Efrain Pinzon",
+    "plaza": "Mercado Fontibon",
+    "contacto": "314 246 97 39",
+    "productos": ["pescaderia", "carniceria", "avicola"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Ismael Diaz",
+    "plaza": "Mercado Fontibon",
+    "contacto": "310 250 80 10",
+    "productos": ["restaurante"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Leonor Gordillo",
+    "plaza": "Mercado Fontibon",
+    "contacto": "320 276 24 57",
+    "productos": ["restaurante"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Yuli Mosquera",
+    "plaza": "Mercado Fontibon",
+    "contacto": "320 267 25 59",
+    "productos": ["restaurante"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Luis Varon",
+    "plaza": "Mercado Fontibon",
+    "contacto": "310 269 27 26",
+    "productos": ["restaurante"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Hector Azuaje",
+    "plaza": "Mercado Fontibon",
+    "contacto": "350 588 60 54",
+    "productos": ["cafeteria"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Diego Zambrano",
+    "plaza": "Mercado Fontibon",
+    "contacto": "310 794 48 56",
+    "productos": ["cafeteria"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Olga Lucia Saenz",
+    "plaza": "Mercado Fontibon",
+    "contacto": "321 450 09 45",
+    "productos": ["flores"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Nestor Soto",
+    "plaza": "Mercado Fontibon",
+    "contacto": "321 316 27 41",
+    "productos": ["flores"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Yackeline Ocampo",
+    "plaza": "Mercado Fontibon",
+    "contacto": "310 861 80 32",
+    "productos": ["plasticos", "limpieza"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Carlos Forero",
+    "plaza": "Mercado Trinidad Galan",
+    "contacto": "319 227 38 15",
+    "productos": ["carniceria", "pescaderia", "avicola"],
+    "direccion": "Carrera 60 # 4b-24",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Victor Diaz",
+    "plaza": "Mercado Trinidad Galan",
+    "contacto": "310 817 94 93",
+    "productos": ["carniceria", "pescaderia", "avicola"],
+    "direccion": "Carrera 60 # 4b-24",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Tatiana Granados",
+    "plaza": "Mercado Trinidad Galan",
+    "contacto": "310 292 51 53",
+    "productos": ["avicola"],
+    "direccion": "Carrera 60 # 4b-24",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Diana Gonzales",
+    "plaza": "Mercado Trinidad Galan",
+    "contacto": "300 746 66 27",
+    "productos": ["avicola"],
+    "direccion": "Carrera 60 # 4b-24",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Julian Muñoz",
+    "plaza": "Mercado Trinidad Galan",
+    "contacto": "320 482 70 29",
+    "productos": ["avicola"],
+    "direccion": "Carrera 60 # 4b-24",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Pedro Carreño",
+    "plaza": "Mercado Trinidad Galan",
+    "contacto": "301 515 47 92",
+    "productos": ["pescaderia"],
+    "direccion": "Carrera 60 # 4b-24",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Luis Gutierrez",
+    "plaza": "Mercado Trinidad Galan",
+    "contacto": "031 565 22 56",
+    "productos": ["tienda"],
+    "direccion": "Carrera 60 # 4b-24",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Ana Camargo",
+    "plaza": "Mercado Trinidad Galan",
+    "contacto": "305 261 88 23",
+    "productos": ["tienda"],
+    "direccion": "Carrera 60 # 4b-24",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Flaminio Rodriguez",
+    "plaza": "Mercado Trinidad Galan",
+    "contacto": "311 261 40 31",
+    "productos": ["lacteos"],
+    "direccion": "Carrera 60 # 4b-24",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Claudia Garcia",
+    "plaza": "Mercado Trinidad Galan",
+    "contacto": "322 227 04 76",
+    "productos": ["lacteos"],
+    "direccion": "Carrera 60 # 4b-24",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Ruth Rodriguez",
+    "plaza": "Mercado Trinidad Galan",
+    "contacto": "031 494 59 72",
+    "productos": ["huevos"],
+    "direccion": "Carrera 60 # 4b-24",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Libardo Mancera",
+    "plaza": "Mercado Trinidad Galan",
+    "contacto": "313 890 46 37",
+    "productos": ["frutas"],
+    "direccion": "Carrera 60 # 4b-24",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Yolanda Leon",
+    "plaza": "Mercado Trinidad Galan",
+    "contacto": "310 342 66 87",
+    "productos": ["frutas"],
+    "direccion": "Carrera 60 # 4b-24",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Martha Gomez",
+    "plaza": "Mercado Trinidad Galan",
+    "contacto": "311 857 68 88",
+    "productos": ["carniceria"],
+    "direccion": "Carrera 60 # 4b-24",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Neyla Pardo",
+    "plaza": "Mercado Trinidad Galan",
+    "contacto": "311 558 00 26",
+    "productos": ["plasticos"],
+    "direccion": "Carrera 60 # 4b-24",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Javier Reyes",
+    "plaza": "Mercado San Carlos",
+    "contacto": "310 871 15 52",
+    "productos": ["frutas", "verduras"],
+    "direccion": "Calle 51 Sur # 19b-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Cafeteria",
+    "plaza": "Mercado El Restrepo",
+    "contacto": "316 887 73 76",
+    "productos": ["cafeteria"],
+    "direccion": "Carrera 19 # 19B-16 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Stella Peña",
+    "plaza": "Mercado El Restrepo",
+    "contacto": "312 324 80 20",
+    "productos": ["restaurante"],
+    "direccion": "Carrera 19 # 19B-16 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Juana Isabel",
+    "plaza": "Mercado El Restrepo",
+    "contacto": "311 451 24 64",
+    "productos": ["restaurante"],
+    "direccion": "Carrera 19 # 19B-16 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Juan Aragon",
+    "plaza": "Mercado El Restrepo",
+    "contacto": "321 308 11 87",
+    "productos": ["restaurante"],
+    "direccion": "Carrera 19 # 19B-16 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Donde Alcira",
+    "plaza": "Mercado El Restrepo",
+    "contacto": "321 364 72 20",
+    "productos": ["restaurante"],
+    "direccion": "Carrera 19 # 19B-16 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Brisa Marina",
+    "plaza": "Mercado El Restrepo",
+    "contacto": "310 595 02 38 / 320 843 70 71",
+    "productos": ["pescaderia"],
+    "direccion": "Carrera 19 # 19B-16 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Dany Pez",
+    "plaza": "Mercado El Restrepo",
+    "contacto": "310 334 86 04",
+    "productos": ["pescaderia"],
+    "direccion": "Carrera 19 # 19B-16 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Lily Mar",
+    "plaza": "Mercado El Restrepo",
+    "contacto": "313 215 41 17",
+    "productos": ["pescaderia"],
+    "direccion": "Carrera 19 # 19B-16 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Distrbuidora Escobar",
+    "plaza": "Mercado El Restrepo",
+    "contacto": "319 412 78 00",
+    "productos": ["pescaderia"],
+    "direccion": "Carrera 19 # 19B-16 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Dines Mar",
+    "plaza": "Mercado El Restrepo",
+    "contacto": "031 566 72 46",
+    "productos": ["pescaderia"],
+    "direccion": "Carrera 19 # 19B-16 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Santa Ana",
+    "plaza": "Mercado El Restrepo",
+    "contacto": "321 209 41 27",
+    "productos": ["pescaderia"],
+    "direccion": "Carrera 19 # 19B-16 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Esperanza Penagos",
+    "plaza": "Mercado El Restrepo",
+    "contacto": "311 214 19 63",
+    "productos": ["mascotas"],
+    "direccion": "Carrera 19 # 19B-16 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Luisa Puentes",
+    "plaza": "Mercado El Restrepo",
+    "contacto": "320 948 66 61",
+    "productos": ["mascotas"],
+    "direccion": "Carrera 19 # 19B-16 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Diego Espinoza",
+    "plaza": "Mercado El Restrepo",
+    "contacto": "319 593 84 87",
+    "productos": ["mascotas"],
+    "direccion": "Carrera 19 # 19B-16 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Andres Moyano",
+    "plaza": "Mercado El Restrepo",
+    "contacto": "310 329 87 86",
+    "productos": ["mascotas"],
+    "direccion": "Carrera 19 # 19B-16 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Cesar Puerto",
+    "plaza": "Mercado El Restrepo",
+    "contacto": "311 231 47 74",
+    "productos": ["mascotas"],
+    "direccion": "Carrera 19 # 19B-16 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Olga Chiguazuque",
+    "plaza": "Mercado El Restrepo",
+    "contacto": "314 443 09 59",
+    "productos": ["mascotas"],
+    "direccion": "Carrera 19 # 19B-16 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Liliana Bermudez",
+    "plaza": "Mercado El Restrepo",
+    "contacto": "304 547 43 62",
+    "productos": ["mascotas"],
+    "direccion": "Carrera 19 # 19B-16 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Miguel Choconta",
+    "plaza": "Mercado El Restrepo",
+    "contacto": "316 546 54 76",
+    "productos": ["carniceria"],
+    "direccion": "Carrera 19 # 19B-16 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Cesar Jimenez",
+    "plaza": "Mercado El Restrepo",
+    "contacto": "310 814 17 60 / 313 487 55 50",
+    "productos": ["carniceria"],
+    "direccion": "Carrera 19 # 19B-16 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Nelsa Bohorquez",
+    "plaza": "Mercado El Restrepo",
+    "contacto": "311 459 30 56",
+    "productos": ["avicola"],
+    "direccion": "Carrera 19 # 19B-16 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "El Paraiso de las Frutas",
+    "plaza": "Mercado El Restrepo",
+    "contacto": "311 250 28 90",
+    "productos": ["frutas"],
+    "direccion": "Carrera 19 # 19B-16 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Emperatriz Castañeda",
+    "plaza": "Mercado El Restrepo",
+    "contacto": "302 245 40 86",
+    "productos": ["frutas", "verduras"],
+    "direccion": "Carrera 19 # 19B-16 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Edison Mahecha",
+    "plaza": "Mercado El Restrepo",
+    "contacto": "313 253 12 97",
+    "productos": ["hierbas"],
+    "direccion": "Carrera 19 # 19B-16 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Gerardo Mahecha",
+    "plaza": "Mercado El Restrepo",
+    "contacto": "313 479 56 44",
+    "productos": ["hierbas"],
+    "direccion": "Carrera 19 # 19B-16 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Carlos Rios",
+    "plaza": "Mercado El Restrepo",
+    "contacto": "310 300 44 51",
+    "productos": ["restaurante"],
+    "direccion": "Carrera 19 # 19B-16 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Luz Mar",
+    "plaza": "Mercado El Restrepo",
+    "contacto": "313 456 36 80 / 031 407 97 36",
+    "productos": ["pescaderia"],
+    "direccion": "Carrera 19 # 19B-16 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Marisol Muñoz",
+    "plaza": "Mercado El Restrepo",
+    "contacto": "314 456 36 80",
+    "productos": ["pescaderia"],
+    "direccion": "Carrera 19 # 19B-16 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "German Vera",
+    "plaza": "Mercado El Restrepo",
+    "contacto": "320 638 61 36 / 031 278 53 45",
+    "productos": ["pescaderia"],
+    "direccion": "Carrera 19 # 19B-16 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Pescadera Italia",
+    "plaza": "Mercado El Restrepo",
+    "contacto": "320 638 61 36 / 031 278 53 45",
+    "productos": ["pescaderia"],
+    "direccion": "Carrera 19 # 19B-16 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Flor del Magdalena",
+    "plaza": "Mercado El Restrepo",
+    "contacto": "311 223 86 04",
+    "productos": ["pescaderia"],
+    "direccion": "Carrera 19 # 19B-16 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Plasticos Yair Plast",
+    "plaza": "Mercado El Restrepo",
+    "contacto": "301 721 81 01",
+    "productos": ["plasticos"],
+    "direccion": "Carrera 19 # 19B-16 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Solo Aguacates",
+    "plaza": "Mercado El Restrepo",
+    "contacto": "314 722 60 64",
+    "productos": ["frutas"],
+    "direccion": "Carrera 19 # 19B-16 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Elvia Hernandez",
+    "plaza": "Mercado El Restrepo",
+    "contacto": "313 270 20 46 / 031 599 70 29",
+    "productos": ["salsamenteria"],
+    "direccion": "Carrera 19 # 19B-16 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "San Fer Alejandra",
+    "plaza": "Mercado El Restrepo",
+    "contacto": "313 426 81 64 / 320 369 20 18",
+    "productos": ["salsamenteria"],
+    "direccion": "Carrera 19 # 19B-16 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Mi Tolima",
+    "plaza": "Mercado El Restrepo",
+    "contacto": "310 301 42 16",
+    "productos": ["mascotas"],
+    "direccion": "Carrera 19 # 19B-16 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Mis Mascotikas",
+    "plaza": "Mercado El Restrepo",
+    "contacto": "310 608 88 84 / 314 294 32 25",
+    "productos": ["mascotas"],
+    "direccion": "Carrera 19 # 19B-16 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "D'Salome",
+    "plaza": "Mercado Santander",
+    "contacto": "312 565 39 45",
+    "productos": ["restaurante"],
+    "direccion": "Calle 26 Sur # 30-21",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Fogon Costeño",
+    "plaza": "Mercado Santander",
+    "contacto": "310 884 85 92",
+    "productos": ["restaurante"],
+    "direccion": "Calle 26 Sur # 30-21",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Laura Cardona",
+    "plaza": "Mercado Santander",
+    "contacto": "311 254 89 77",
+    "productos": ["restaurante"],
+    "direccion": "Calle 26 Sur # 30-21",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Marlen Mellado",
+    "plaza": "Mercado Santander",
+    "contacto": "310 321 71 15",
+    "productos": ["restaurante"],
+    "direccion": "Calle 26 Sur # 30-21",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Olga Mellado",
+    "plaza": "Mercado Santander",
+    "contacto": "321 305 82 97",
+    "productos": ["restaurante"],
+    "direccion": "Calle 26 Sur # 30-21",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Lamona",
+    "plaza": "Mercado Santander",
+    "contacto": "320 258 16 81 / 031 203 31 89",
+    "productos": ["restaurante"],
+    "direccion": "Calle 26 Sur # 30-21",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Milton Gomez",
+    "plaza": "Mercado Santander",
+    "contacto": "310 242 09 10",
+    "productos": ["avicola", "huevos"],
+    "direccion": "Calle 26 Sur # 30-21",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Rosa Amortegui",
+    "plaza": "Mercado Santander",
+    "contacto": "314 337 95 11",
+    "productos": ["plasticos"],
+    "direccion": "Calle 26 Sur # 30-21",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Marquez Moncayo",
+    "plaza": "Mercado Santander",
+    "contacto": "315 785 33 92",
+    "productos": ["belleza"],
+    "direccion": "Calle 26 Sur # 30-21",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Andrea Leyton",
+    "plaza": "Mercado 20 de Julio",
+    "contacto": "321 323 15 76",
+    "productos": ["carniceria", "pescaderia", "avicola"],
+    "direccion": "Carrera 6 # 24A-30 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Maribel Ruiz",
+    "plaza": "Mercado 20 de Julio",
+    "contacto": "320 493 92 98 / 031 701 96 81",
+    "productos": ["carniceria", "pescaderia", "avicola"],
+    "direccion": "Carrera 6 # 24A-30 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Isaias Gutierrez",
+    "plaza": "Mercado 20 de Julio",
+    "contacto": "031 209 37 39",
+    "productos": ["carniceria", "pescaderia", "avicola"],
+    "direccion": "Carrera 6 # 24A-30 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Robert Sepulveda",
+    "plaza": "Mercado 20 de Julio",
+    "contacto": "312 475 64 39 / 311 275 42 57",
+    "productos": ["avicola"],
+    "direccion": "Carrera 6 # 24A-30 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Alvaro Gomez",
+    "plaza": "Mercado 20 de Julio",
+    "contacto": "031 372 41 39",
+    "productos": ["avicola"],
+    "direccion": "Carrera 6 # 24A-30 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Idalis Hernandez",
+    "plaza": "Mercado 20 de Julio",
+    "contacto": "310 814 69 72",
+    "productos": ["pescaderia"],
+    "direccion": "Carrera 6 # 24A-30 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Lucy Medina",
+    "plaza": "Mercado 20 de Julio",
+    "contacto": "311 516 04 70",
+    "productos": ["pescaderia"],
+    "direccion": "Carrera 6 # 24A-30 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Ana Lucia Sanchez",
+    "plaza": "Mercado 20 de Julio",
+    "contacto": "310 559 68 90",
+    "productos": ["pescaderia"],
+    "direccion": "Carrera 6 # 24A-30 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Alexander Ardila",
+    "plaza": "Mercado 20 de Julio",
+    "contacto": "320 833 58 55 / 031 272 27 59",
+    "productos": ["carniceria"],
+    "direccion": "Carrera 6 # 24A-30 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Rosa Rincon",
+    "plaza": "Mercado 20 de Julio",
+    "contacto": "320 226 76 11",
+    "productos": ["frutas"],
+    "direccion": "Carrera 6 # 24A-30 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Graciliano Zuleta",
+    "plaza": "Mercado 20 de Julio",
+    "contacto": "311 287 02 89",
+    "productos": ["frutas", "verduras"],
+    "direccion": "Carrera 6 # 24A-30 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Alexander Gomez",
+    "plaza": "Mercado 20 de Julio",
+    "contacto": "320 246 62 26",
+    "productos": ["lacteos"],
+    "direccion": "Carrera 6 # 24A-30 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Ilma Bogota",
+    "plaza": "Mercado 20 de Julio",
+    "contacto": "305 737 38 45",
+    "productos": ["plantas"],
+    "direccion": "Carrera 6 # 24A-30 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Victor Gutierrez",
+    "plaza": "Mercado 20 de Julio",
+    "contacto": "031 372 82 09",
+    "productos": ["granero"],
+    "direccion": "Carrera 6 # 24A-30 Sur",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Maria Barbosa",
+    "plaza": "Mercado 20 de Julio",
+    "contacto": "311 217 39 28 / 312 594 11 17",
+    "productos": ["plasticos"],
+    "direccion": "Carrera 6 # 24A-30 Sur",
+    "ciudad": "Bogota"
+  },
+
+  /* Dilan */
+  
+  {
+    "nombre": "Nohora Ladino",
+    "plaza": "Fontibon",
+    "contacto": "316 747 16 16",
+    "productos": ["frutas"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Jimmy Villareal",
+    "plaza": "Fontibon",
+    "contacto": "300 570 73 99",
+    "productos": ["frutas"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Viviana Bermudez",
+    "plaza": "Fontibon",
+    "contacto": "322 330 57 26",
+    "productos": ["frutas"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Luz Marina Rocha",
+    "plaza": "Fontibon",
+    "contacto": "314 268 32 65",
+    "productos": ["frutas"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Esperanza Sanchez",
+    "plaza": "Fontibon",
+    "contacto": "313 489 65 35",
+    "productos": ["frutas"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Rogelio Ortiz",
+    "plaza": "Fontibon",
+    "contacto": "313 432 93 78",
+    "productos": ["frutas", "verduras"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+  {
+    "nombre": "Yinna Paola Cruz",
+    "plaza": "Fontibon",
+    "contacto": "314 231 50 64",
+    "productos": ["frutas", "verduras"],
+    "direccion": "Calle 19 # 103-26",
+    "ciudad": "Bogota"
+  },
+
+]
